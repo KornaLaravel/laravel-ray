@@ -2,6 +2,18 @@
 
 All notable changes to `laravel-ray` will be documented in this file
 
+## 1.43.6 - 2026-02-19
+
+### What's Changed
+
+* Supports Laravel 13 by @duncanmcclean in https://github.com/spatie/laravel-ray/pull/403
+
+### New Contributors
+
+* @duncanmcclean made their first contribution in https://github.com/spatie/laravel-ray/pull/403
+
+**Full Changelog**: https://github.com/spatie/laravel-ray/compare/1.43.5...1.43.6
+
 ## 1.43.5 - 2026-01-26
 
 ### What's Changed
